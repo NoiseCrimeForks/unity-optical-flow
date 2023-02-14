@@ -2,6 +2,7 @@ unity-optical-flow
 =====================
 
 A simple optical flow implementation by fragment shader.
+Updated to add support for VideoPlayer component.
 
 ![WebCam](https://raw.githubusercontent.com/mattatz/unity-optical-flow/master/Captures/WebCamOpticalFlowParticle.gif)
 
